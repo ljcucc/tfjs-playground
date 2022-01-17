@@ -1,7 +1,8 @@
-import logo from './logo.svg';
-import './App.css';
-import EditorPage from './EditorPage';
-import AppTopbar from './AppTopbar.js';
+// import logo from './logo.svg';
+import React from 'react';
+import 'Main/App.css';
+import EditorPage from 'Main/EditorPage';
+import AppTopbar from 'Main/AppTopbar.js';
 
 
 function App() {
